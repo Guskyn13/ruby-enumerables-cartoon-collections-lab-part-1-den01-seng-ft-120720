@@ -3,3 +3,4 @@ def greet_characters(array)
   dwarves.each do |dwarves|
     puts "Hello {drawves}"
 end
+end
